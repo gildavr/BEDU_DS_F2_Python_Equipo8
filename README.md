@@ -12,7 +12,6 @@ Integrantes del Equipo
 - Rocío Velasco Flores
 - César Palafox Vázquez
 - Edgar Daniel Paulin Noriega
-- Fernando Hernández Esquivel
 
 ## Resumen ejecutivo
 
