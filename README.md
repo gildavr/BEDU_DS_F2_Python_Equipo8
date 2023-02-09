@@ -24,7 +24,7 @@ En septiembre de 2019 Banco de México y la Asociación de Bancos de México pus
 
 CoDi funciona a través de teléfonos móviles, en un esquema 24x7 y sin ningún costo. CoDi opera sobre la infraestructura del sistema SPEI (Sistema de Pagos Electrónicos Interbancarios) del mismo Banco de México.
 
-Nos llama la atención que la adopción de este sistema no ha sido el esperado. Por ello exploramos los datos operativos de Banco de México para entender cuál es la situación del sistema CoDi (2019 – 2022). Nos interesa saber por qué, a pesar de los beneficios que ofrece CoDi, no es adoptado masivamente. Para poder generar ideas de qué hacer para que CoDi sea usado por un mayor número de comercios y clientes,  buscamos encontrar en los datos disponibles las causas de no alcanzar la adopción esperada.
+Nos llama la atención que la adopción de este sistema no ha sido la esperada. Por ello exploramos los datos operativos de Banco de México para entender cuál es la situación del sistema CoDi (2019 – 2022). Nos interesa saber por qué, a pesar de los beneficios que ofrece CoDi, no es adoptado masivamente. Para poder generar ideas de qué hacer para que CoDi sea usado por un mayor número de comercios y clientes,  buscamos encontrar en los datos disponibles las causas de no alcanzar la adopción esperada.
 
 En la investigación encontramos una solución en Brasil llamada Pix, ésta es un esfuerzo del Banco Central de Brasil para fomentar la inclusión financiera y la adopción de pagos digitales en América Latina. Al igual que CoDi, a través de Pix se pueden hacer transferencias de pagos electrónicos instantáneas de persona a persona, a un comercio o institución financiera y de gobierno en Brasil. El sistema Pix fue utilizado por 100 veces más personas y comercios a comparación de CoDi; mientras que el monto total transaccionado a través del sistema brasileño es 4,000 veces mayor que los recursos que transitaron a través de la plataforma mexicana; por último, CoDi ha sido utilizado al menos una vez por 0.97% de la población mexicana, mientras que Pix lo ha usado 47% de la población brasileña.
  
@@ -54,4 +54,8 @@ En conclusión, creemos que en comparación con otras soluciones similares podem
 - Jupyter Notebook del proyecto. Incluye exploración inicial de datasets, limpieza de datos y resolución de preguntas planteadas. [Jupyter Notebook del proyecto en el repositorio](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/blob/main/Limpieza_de_datos.ipynb)
 - Jupyter Notebook de Exploración de datos extraídos a través del API del Sistema de Información Económica (SIE) de Banco de México. [Jupyter Notebook de exploración de API en el repositorio](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/blob/main/APIBanxico.ipynb)
 
+### Instrucciones de uso del proyecto
+- Consultar el Desarrollo del proyecto [Equipo8_Proyecto_Procesamiento_Datos_Python.docx](https://docs.google.com/document/d/1PoAE28sfDpxFI65ElKtBh4O_AW-XXmqS/edit?usp=share_link&ouid=114296856759997128418&rtpof=true&sd=true)
+- Para ver los archivos del proyector acceder al Repositorio del proyecto [https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8.git](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8.git)
+- Para correr los Notebooks del proyecto, clonar el Repositorio del proyecto [https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8.git](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8.git) Este tiene los notebooks y los datasets requeridos. 
 
