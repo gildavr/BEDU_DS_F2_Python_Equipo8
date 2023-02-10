@@ -32,12 +32,13 @@ Este proyecto es el esfuerzo de la exploración de los datos públicos que Banco
 El desarrollo de este proyecto se base en el planteamiento de las siguientes preguntas a las cuales hemos dado respuesta con la exploración de los datos:
 - ¿Cuáles son las entidades financieras con mayor y menor número de cuentas validadas?
 - ¿Cuál es la proporción de cuentas registradas que han realizado al menos un cobro o un pago mediante CoDi?
-- ¿Cuál ha sido el promedio por año de las cuentas que han realizado al menos un cobro  y un pago mediante CoDi?
-- ¿Cuál es el número promedio de transacciones realizadas por año?
-- ¿Cuáles son las entidades financieras con el mayor número de cuentas enviadas y recibidas?  
-- ¿Cuál ha sido el monto promedio por año realizado mediante CoDi? 
+- ¿Cuál ha sido el promedio diario por año de las cuentas que han realizado al menos un cobro  y un pago mediante CoDi?
+- ¿Cuál es el promedio diario de transacciones realizadas por año?
+- ¿Cuáles son las entidades financieras con el mayor número de transacciones enviadas y recibidas?  
+- ¿Cuál ha sido el monto promedio diario por año realizado mediante CoDi? 
 - ¿Cuál es el porcentaje de dispositivos Android y iOS registrados en CoDi? 
-- ¿Cuáles han sido las medidas de tendencia central, los valores máximos y mínimos y los cuartiles para transacciones diarias de al menos un pago y transacciones diarias de al menos un cobro?
+- ¿Cuáles son las medidas de tendencia central, los valores máximos y mínimos y los cuartiles para transacciones diarias de aquellas cuentas con al menos un pago o un cobro?
+
 
 El conjunto de datos explorados se puede consultar en el [repositorio de Datasets](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/tree/main/Datasets). Las respuestas arrojadas a partir de la exploración de los datos se encuentran en el [Jupyter Notebook del proyecto](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/blob/main/Limpieza_de_datos.ipynb).
 
