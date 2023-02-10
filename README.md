@@ -51,7 +51,7 @@ En conclusión, creemos que en comparación con otras soluciones similares podem
 - Repositorio del proyecto [https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8.git](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8.git)
 - Desarrollo del proyecto [Equipo8_Proyecto_Procesamiento_Datos_Python.docx](https://docs.google.com/document/d/1PoAE28sfDpxFI65ElKtBh4O_AW-XXmqS/edit?usp=share_link&ouid=114296856759997128418&rtpof=true&sd=true)
 - Datasets [folder de Datasets en Repositorio](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/tree/main/Datasets)
-- Jupyter Notebook del proyecto. Incluye exploración inicial de datasets, limpieza de datos y resolución de preguntas planteadas. [Jupyter Notebook del proyecto en el repositorio](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/blob/main/Limpieza_de_datos.ipynb)
+- Jupyter Notebook del proyecto. Incluye exploración inicial de datasets, limpieza de datos y resolución de preguntas planteadas. [Jupyter Notebook del proyecto en el repositorio](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/blob/main/Equipo8_Proyecto_Procesamiento_Datos_Python.ipynb)
 - Jupyter Notebook de Exploración de datos extraídos a través del API del Sistema de Información Económica (SIE) de Banco de México. [Jupyter Notebook de exploración de API en el repositorio](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/blob/main/APIBanxico.ipynb)
 
 ### Instrucciones de uso del proyecto
