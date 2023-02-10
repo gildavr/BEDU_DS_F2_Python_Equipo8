@@ -40,7 +40,7 @@ El desarrollo de este proyecto se base en el planteamiento de las siguientes pre
 - ¿Cuáles son las medidas de tendencia central, los valores máximos y mínimos y los cuartiles para transacciones diarias de aquellas cuentas con al menos un pago o un cobro?
 
 
-El conjunto de datos explorados se puede consultar en el [repositorio de Datasets](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/tree/main/Datasets). Las respuestas arrojadas a partir de la exploración de los datos se encuentran en el [Jupyter Notebook del proyecto](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/blob/main/Limpieza_de_datos.ipynb).
+El conjunto de datos explorados se puede consultar en el [repositorio de Datasets](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/tree/main/Datasets). Las respuestas arrojadas a partir de la exploración de los datos se encuentran en el [Jupyter Notebook del proyecto](https://github.com/gildavr/BEDU_DS_F2_Python_Equipo8/blob/main/Equipo8_Proyecto_Procesamiento_Datos_Python.ipynb).
 
 En el documento [Equipo8_Proyecto_Procesamiento_Datos_Python.docx](https://docs.google.com/document/d/1PoAE28sfDpxFI65ElKtBh4O_AW-XXmqS/edit?usp=share_link&ouid=114296856759997128418&rtpof=true&sd=true) se encuentra el desarrollo del proyecto, desde el planteamiento del problema, soluciones similares, cuestionamientos planteados, razonamientos para la exploración de datos, obtención, limpieza y transformación de los datos.
 
